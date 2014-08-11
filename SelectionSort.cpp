@@ -1,7 +1,3 @@
-//Jaya Darbhamulla
-//4/17/2014
-//Lab 0
-//CIS 22B
 
 #include <iostream>
 #include <fstream>
